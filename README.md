@@ -82,53 +82,28 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ## 📸 Gallery
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="assets/beijing_arena.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>RoboRAVE Beijing Arena</b></sub>
-      <br /><br />
-      <img src="assets/sydney_team.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Sydney 2024 Team</b></sub>
-      <br /><br />
-      <img src="assets/pcb_design.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Custom PCB Design in Altium</b></sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="assets/beijing_robot.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Beijing 2025 Robot (Gen 2)</b></sub>
-      <br /><br />
-      <img src="assets/robots_cool.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Fleet of Autonomous Robots</b></sub>
-      <br /><br />
-      <img src="assets/workshop_desk.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>My Workspace</b></sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="assets/beijing_medal.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>World Champion Medal</b></sub>
-      <br /><br />
-      <img src="assets/roboilo_cups.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>ROBOILO Club Trophies</b></sub>
-      <br /><br />
-      <img src="assets/robots_group.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Student Projects</b></sub>
-      <br /><br />
-      <img src="assets/hero.jpg" width="100%" style="border-radius: 6px;" />
-      <br />
-      <sub><b>Soldering & Prototyping</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/gallery_01.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_02.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_03.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_04.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_05.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_06.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_07.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_08.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_09.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_10.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_11.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_12.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_13.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_14.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_15.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_16.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_17.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_18.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_19.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_20.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_21.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+<img src="assets/gallery_22.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 
 ---
 
