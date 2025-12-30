@@ -20,15 +20,9 @@ I don't just build robots; I build winners. In **2024 and 2025**, my autonomous 
 
 ---
 
-## 📸 Educational Channel (@szymigzzz)
+## 🎥 Educational Channel
 I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szymigzzz/)** where I share the reality of building world-class robots.
 > *"I show the failures, the burnt PCBs, and the late nights—not just the trophies."*
-
-<div align="center">
-  <a href="https://www.instagram.com/szymigzzz/">
-    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
 
 ---
 
