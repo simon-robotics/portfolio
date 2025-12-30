@@ -59,38 +59,7 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ---
 
-## 🛠 Projects & Engineering
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="assets/beijing_robot.jpg" width="100%" style="border-radius: 8px;" />
-      <br />
-      <b>Competition Robot (Gen 2)</b>
-      <br />
-      <i>STM32 • Custom PCB • C</i>
-    </td>
-    <td width="33%" align="center">
-      <img src="assets/pcb_design.jpg" width="100%" style="border-radius: 8px;" />
-      <br />
-      <b>Custom Motor Drivers</b>
-      <br />
-      <i>Altium Designer • High Current</i>
-    </td>
-    <td width="33%" align="center">
-      <img src="assets/roboilo_cups.jpg" width="100%" style="border-radius: 8px;" />
-      <br />
-      <b>ROBOILO Club</b>
-      <br />
-      <i>Teaching • Mentoring • Leadership</i>
-    </td>
-  </tr>
-</table>
-
-### ROBOILO Robotics Club
-I founded a robotics club at my high school that grew from **0 to 20+ active members**. We started with no budget; now students design their own PCBs. I teach weekly workshops on electronics and embedded programming.
-
----
 
 ## 💻 Tech Stack
 
@@ -108,6 +77,58 @@ I founded a robotics club at my high school that grew from **0 to 20+ active mem
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion_360-F4F15E?style=flat&logo=autodesk&logoColor=black)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FDM-blue?style=flat)
+
+---
+
+## 📸 Gallery
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/beijing_arena.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>RoboRAVE Beijing Arena</b></sub>
+      <br /><br />
+      <img src="assets/sydney_team.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Sydney 2024 Team</b></sub>
+      <br /><br />
+      <img src="assets/pcb_design.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Custom PCB Design in Altium</b></sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/beijing_robot.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Beijing 2025 Robot (Gen 2)</b></sub>
+      <br /><br />
+      <img src="assets/robots_cool.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Fleet of Autonomous Robots</b></sub>
+      <br /><br />
+      <img src="assets/workshop_desk.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>My Workspace</b></sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/beijing_medal.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>World Champion Medal</b></sub>
+      <br /><br />
+      <img src="assets/roboilo_cups.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>ROBOILO Club Trophies</b></sub>
+      <br /><br />
+      <img src="assets/robots_group.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Student Projects</b></sub>
+      <br /><br />
+      <img src="assets/hero.jpg" width="100%" style="border-radius: 6px;" />
+      <br />
+      <sub><b>Soldering & Prototyping</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
