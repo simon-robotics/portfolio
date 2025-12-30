@@ -4,12 +4,7 @@
   <h1 style="font-size: 3em; margin-bottom: 0;">Szymon Bogus</h1>
   <h3 style="margin-top: 0; font-weight: normal;">Robotics Engineer | 2x World Champion | Builder</h3>
   
-  <p>
-    <a href="https://www.instagram.com/szymigzzz/"><img src="https://img.shields.io/badge/Instagram-Follow_My_Robots-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-    <img src="https://img.shields.io/badge/Location-Gdańsk,_Poland-lightgrey?style=for-the-badge&logo=google-maps" />
-  </p>
+
 </div>
 
 <br />
@@ -22,6 +17,22 @@ I don't just build robots; I build winners. In **2024 and 2025**, my autonomous 
 | 🏆 **World Champion** | 🌍 **Global Experience** | 👥 **Leader** | 🔬 **Researcher** |
 |:---:|:---:|:---:|:---:|
 | **2x Gold Medalist**<br>RoboRAVE Int'l | Competed against<br>**30+ Countries** | Founder of **ROBOILO**<br>20+ Members | Top 20 National<br>**EV Battery Safety** |
+
+---
+
+## 📸 Educational Channel (@szymigzzz)
+I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szymigzzz/)** where I share the reality of building world-class robots.
+> *"I show the failures, the burnt PCBs, and the late nights—not just the trophies."*
+
+- **Goal:** Inspire the next generation of engineers.
+- **Content:** Tutorials, competition vlogs, and transparent engineering logs.
+- **Community:** Helping students from around the world get started with STM32 and PCB design.
+
+<div align="center">
+  <a href="https://www.instagram.com/szymigzzz/">
+    <img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
 ---
 
