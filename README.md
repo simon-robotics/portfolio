@@ -55,7 +55,7 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 - **Result:** Proved that a controlled crumple zone reduces G-force by **39%**, preventing battery damage.
 
 ### 🏎️ DownforceLab (Current Research)
-*Program: "Engineers of the Future" (2025-2026)*
+*Program: ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2025-2026)*
 - **Goal:** Studying the effect of aerobic downforce (turbine-generated) on vehicle cornering speed and energy efficiency.
 - **Platform:** Developing a custom "LineLeader" robot to log traction data under varying downforce loads.
 
