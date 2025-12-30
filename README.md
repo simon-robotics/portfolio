@@ -49,7 +49,7 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 ## 🔬 Research & Innovation
 
 ### 🔋 EV Battery Safety Analysis (Top 20 National Project)
-*Program: "Engineers of the Future" (2024-2025)*
+*Program: ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2024-2025)*
 - **Goal:** Investigated thermal runaway in Li-ion/Li-po packs during collisions.
 - **Method:** Built autonomous test vehicles equipped with accelerometers and thermal cameras to perform crash tests (4.4g impact).
 - **Result:** Proved that a controlled crumple zone reduces G-force by **39%**, preventing battery damage.
