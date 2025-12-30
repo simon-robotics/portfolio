@@ -39,9 +39,9 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 - **🥈 2nd Place** - Rumble Robots Malechowo 2024 (SUMO)
 
 ### 🔬 Research & Distinctions
-- **Finalist (Top 20)** - "Engineers of the Future" (2024/2025)
+- **Finalist (Top 20)** - ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2024/2025)
   *Research on EV Battery Safety.*
-- **Laureate (Top 100)** - "Engineers of the Future" (2025/2026 - Ongoing)
+- **Laureate (Top 100)** - ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2025/2026 - Ongoing)
   *Research on Aerodynamic Downforce in Robotics.*
 
 ---
@@ -49,13 +49,13 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 ## 🔬 Research & Innovation
 
 ### 🔋 EV Battery Safety Analysis (Top 20 National Project)
-*Program: "Engineers of the Future" (2024-2025)*
+*Program: ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2024-2025)*
 - **Goal:** Investigated thermal runaway in Li-ion/Li-po packs during collisions.
 - **Method:** Built autonomous test vehicles equipped with accelerometers and thermal cameras to perform crash tests (4.4g impact).
 - **Result:** Proved that a controlled crumple zone reduces G-force by **39%**, preventing battery damage.
 
 ### 🏎️ DownforceLab (Current Research)
-*Program: "Engineers of the Future" (2025-2026)*
+*Program: ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2025-2026)*
 - **Goal:** Studying the effect of aerobic downforce (turbine-generated) on vehicle cornering speed and energy efficiency.
 - **Platform:** Developing a custom "LineLeader" robot to log traction data under varying downforce loads.
 
