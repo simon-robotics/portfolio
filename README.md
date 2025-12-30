@@ -90,7 +90,7 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 <img src="assets/gallery_06.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 <img src="assets/gallery_07.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 <img src="assets/gallery_08.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
-<img src="assets/gallery_09.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+
 <img src="assets/gallery_10.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 <img src="assets/gallery_11.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
 <img src="assets/gallery_12.png" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
