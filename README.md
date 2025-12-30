@@ -10,23 +10,19 @@
 <br />
 
 ## 👋 About Me
-I'm a robotics engineer from **Poland 🇵🇱** who builds autonomous systems from the ground up. My bedroom is my lab, filled with oscilloscopes, reflow ovens, and failed prototypes that taught me more than any textbook. 
+I’m a hands-on robotics builder and competitive SUMO-bot athlete from **Poland 🇵🇱**. I design, machine, and 3D-print mechanical parts, lay out custom PCBs, and write embedded C for STM32. I enjoy taking a robot from a CAD sketch to a tuned algorithm on my own electronics, testing, and iterating fast. 
 
 I don't just build robots; I build winners. In **2024 and 2025**, my autonomous robots beat teams from over 30 countries to become **Back-to-Back World Champions**.
 
 | 🏆 **World Champion** | 🌍 **Global Experience** | 👥 **Leader** | 🔬 **Researcher** |
 |:---:|:---:|:---:|:---:|
-| **2x Gold Medalist**<br>RoboRAVE Int'l | Competed against<br>**30+ Countries** | Founder of **ROBOILO**<br>20+ Members | Top 20 National<br>**EV Battery Safety** |
+| **2x Gold Medalist**<br>RoboRAVE Int'l | Competed in<br>**Australia & China** | Founder of **ROBOILO**<br>3 Years Active | Top 20 National<br>**"Engineers of Future"** |
 
 ---
 
 ## 📸 Educational Channel (@szymigzzz)
 I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szymigzzz/)** where I share the reality of building world-class robots.
 > *"I show the failures, the burnt PCBs, and the late nights—not just the trophies."*
-
-- **Goal:** Inspire the next generation of engineers.
-- **Content:** Tutorials, competition vlogs, and transparent engineering logs.
-- **Community:** Helping students from around the world get started with STM32 and PCB design.
 
 <div align="center">
   <a href="https://www.instagram.com/szymigzzz/">
@@ -38,24 +34,21 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ## 🚀 Key Achievements
 
-### 🥇 **World Champion** - RoboRAVE Beijing 2025
-> *Defended the title against the best teams in the world.*
-- **Role:** Lead Engineer & Builder
-- **Tech:** STM32, Custom PCB, Advanced PID
-- **Result:** **1st Place** (Autonomous Category)
-- **Improvement:** Redesigned power systems for 20% faster response times.
+### 🏆 International Titles
+- **🥇 World Champion** - RoboRAVE Beijing 2025 (MegaSUMO)
+- **🥇 World Champion** - RoboRAVE Australia 2024 (SUMO HS)
 
-### 🥇 **World Champion** - RoboRAVE Sydney 2024
-> *Where it all started.*
-- **Role:** Solo Builder
-- **Tech:** Sensor Fusion, C, 3D Printing
-- **Result:** **1st Place**
-- **Feat:** Robot adapted to changing lighting conditions autonomously.
+### 🇵🇱 National Wins
+- **🥇 1st Place** - XChallenge Rzeszów (SUMO HS)
+- **🥇 1st Place** - RobON Krosno (SUMO)
+- **🥇 1st Place** - Rumble Robots Malechowo 2025 (SUMO)
+- **🥈 2nd Place** - Rumble Robots Malechowo 2024 (SUMO)
 
-### 🔬 **Engineers of the Future (Top 20)**
-- Selected for Poland's prestigious research program.
-- Conducted research on **Thermal Runaway in EV Batteries**.
-- Authored a technical report on protection strategies for Li-ion packs.
+### 🔬 Research & Distinctions
+- **Finalist (Top 20)** - "Engineers of the Future" (2024/2025)
+  *Research on EV Battery Safety.*
+- **Laureate (Top 100)** - "Engineers of the Future" (2025/2026 - Ongoing)
+  *Research on Aerodynamic Downforce in Robotics.*
 
 ---
 
@@ -65,18 +58,19 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 **Hardware Design**
 ![Altium](https://img.shields.io/badge/Altium_Designer-A5C9FD?style=flat&logo=altiumdesigner&logoColor=black)
-![PCB](https://img.shields.io/badge/PCB_Design-Professional-green?style=flat)
-![Soldering](https://img.shields.io/badge/SMD_Soldering-Reflow-orange?style=flat)
+![PCB](https://img.shields.io/badge/PCB_Design-4_Layer-green?style=flat)
+![Soldering](https://img.shields.io/badge/Fab-SMD_Reflow-orange?style=flat)
+![CAD](https://img.shields.io/badge/CAD-Inventor_%2F_Fusion-red?style=flat)
 
 **Embedded Systems**
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-G4_%2F_F4-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/Code-Embedded_C-00599C?style=flat&logo=c&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-LiDAR_%2F_IMU-blueviolet?style=flat)
 
 **Tools & Prototyping**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion_360-F4F15E?style=flat&logo=autodesk&logoColor=black)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FDM-blue?style=flat)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FDM_%2F_Resin-blue?style=flat)
+![CNC](https://img.shields.io/badge/Fab-CNC_Machining-grey?style=flat)
 
 ---
 
