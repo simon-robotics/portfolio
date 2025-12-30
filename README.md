@@ -52,6 +52,43 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ---
 
+## 🔬 Research & Innovation
+
+### 🔋 EV Battery Safety Analysis (Top 20 National Project)
+*Program: "Engineers of the Future" (2024-2025)*
+- **Goal:** Investigated thermal runaway in Li-ion/Li-po packs during collisions.
+- **Method:** Built autonomous test vehicles equipped with accelerometers and thermal cameras to perform crash tests (4.4g impact).
+- **Result:** Proved that a controlled crumple zone reduces G-force by **39%**, preventing battery damage.
+
+### 🏎️ DownforceLab (Current Research)
+*Program: "Engineers of the Future" (2025-2026)*
+- **Goal:** Studying the effect of aerobic downforce (turbine-generated) on vehicle cornering speed and energy efficiency.
+- **Platform:** Developing a custom "LineLeader" robot to log traction data under varying downforce loads.
+
+---
+
+## 🛠️ Featured Engineering Projects
+
+### 🤖 SUMO Bot "McQueen" (World Champion)
+*Solo Project | Jan 2024 – Oct 2024*
+- **Role:** Full Stack Robotics (Mech, Elec, Code).
+- **Tech:** STM32G431, UART LiDAR, Custom Motor Drivers.
+- **Innovation:** Non-monocoque modular chassis for rapid field repairs. The robot uses a complex state machine for opponent tactic analysis.
+
+### 🏎️ MiniSUMO "Lil Szymi"
+*Solo Project | Oct 2024 – Aug 2025*
+- **Stats:** Ultra-low center of gravity, 4-wheel drive, Custom Gearbox.
+- **Electronics:** **4-layer PCB** (STM32F411 + DRV8251). integrated LIS3DH accelerometer and OLED UI in a tight form factor.
+- **Features:** Ambient lighting and silicone-cast tires for maximum traction.
+
+### ⚡ LineLeader (Work In Progress)
+*Solo Project | Sep 2025 – Present*
+- **Concept:** High-speed line follower with **active turbine downforce**.
+- **Engineering:** 7:1 Gearbox (N60 motors), PCB structural chassis.
+- **Goal:** To verify the "DownforceLab" research hypothesis.
+
+---
+
 
 
 ## 💻 Tech Stack
