@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/workshop.jpg" width="100%" height="300px" style="object-fit: cover; border-radius: 10px;" alt="Szymon's Workshop" />
+  <img src="assets/workshop.jpg" width="100%" style="border-radius: 10px;" alt="Szymon's Workshop" />
 
   <h1 style="font-size: 3em; margin-bottom: 0;">Szymon Bogus</h1>
   <h3 style="margin-top: 0; font-weight: normal;">Robotics Engineer | 2x World Champion | Builder</h3>
