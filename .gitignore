@@ -1,0 +1,8 @@
+.DS_Store
+.photos
+.portfolio
+.gemini
+node_modules
+.next
+out
+build
