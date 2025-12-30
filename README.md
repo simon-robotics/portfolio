@@ -5,6 +5,7 @@
   <h3 style="margin-top: 0; font-weight: normal;">Robotics Engineer | 2x World Champion | Builder</h3>
   
   <p>
+    <a href="https://www.instagram.com/szymigzzz/"><img src="https://img.shields.io/badge/Instagram-Follow_My_Robots-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
     <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
     <img src="https://img.shields.io/badge/Location-Gdańsk,_Poland-lightgrey?style=for-the-badge&logo=google-maps" />
