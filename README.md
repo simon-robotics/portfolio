@@ -3,6 +3,7 @@
 
   <h1 style="font-size: 3em; margin-bottom: 0;">Szymon Bogus</h1>
   <h3 style="margin-top: 0; font-weight: normal;">Robotics Engineer | 2x World Champion | Builder</h3>
+  <p>📍 Gdańsk, Poland | ✉️ szymon.bogus.biz@gmail.com | 💼 <a href="https://www.linkedin.com/in/szymon-bogus-609570364/">LinkedIn</a></p>
   
 
 </div>
@@ -23,12 +24,17 @@ I don't just build robots; I build winners. In **2024 and 2025**, my autonomous 
 ## 🎥 Educational Channel
 I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szymigzzz/)** where I share the reality of building world-class robots.
 > *"I show the failures, the burnt PCBs, and the late nights—not just the trophies."*
+<br/>
+<div align="center">
+  <a href="https://www.instagram.com/p/DQwjcRFDFlX/"><b>▶️ Watch: Building a World Champion Robot</b></a>
+</div>
 
 ---
 
 ## 🚀 Key Achievements
 
 ### 🏆 International Titles
+*RoboRAVE International: Global autonomous robotics competition (est. 2001) with 30+ participating countries. Robots must complete challenges with zero human control during matches.*
 - **🥇 World Champion** - RoboRAVE Beijing 2025 (MegaSUMO)
 - **🥇 World Champion** - RoboRAVE Australia 2024 (SUMO HS)
 
@@ -46,6 +52,19 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ---
 
+## 🤝 ROBOILO - Robotics Club
+*Co-founder & Lead Instructor | 2023 – Present*
+
+Founded a robotics club at my high school that grew from zero to **20+ active members**. I teach electronics, PCB design, and embedded programming to students with no prior experience. Several members now compete in national robotics competitions.
+
+**Impact:**
+- 20+ active members trained
+- Students designing their own PCBs within months
+- Multiple members competing at national level
+- Year-round workshops and mentoring
+
+---
+
 ## 🔬 Research & Innovation
 
 ### 🔋 EV Battery Safety Analysis (Top 20 National Project)
@@ -56,7 +75,7 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 
 ### 🏎️ DownforceLab (Current Research)
 *Program: ["Engineers of the Future"](https://www.inzynierowie-przyszlosci.pl/) (2025-2026)*
-- **Goal:** Studying the effect of aerobic downforce (turbine-generated) on vehicle cornering speed and energy efficiency.
+- **Goal:** Studying the effect of aerodynamic downforce (turbine-generated) on vehicle cornering speed and energy efficiency.
 - **Platform:** Developing a custom "LineLeader" robot to log traction data under varying downforce loads.
 
 ---
@@ -135,5 +154,5 @@ I run a robotics education channel **[@szymigzzz](https://www.instagram.com/szym
 <div align="center">
   <i>"I build real things that work in the real world."</i>
   <br /><br />
-  <a href="mailto:YOUR_EMAIL"><b>Get in Touch ✉️</b></a>
+  <a href="mailto:szymon.bogus.biz@gmail.com"><b>Get in Touch ✉️</b></a>
 </div>
